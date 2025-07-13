@@ -39,8 +39,8 @@
     "image": "resumegen",
     "category": "web",
     "links": {
-      "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/jigar-sable/resumegen"
+      "view": "https://resuemgen.vercel.app/",
+      "code": "https://github.com/JnanaranjanMajhi/Resuemgen"
     }
   },
   
@@ -49,8 +49,8 @@
     "desc": "A Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.",
     "image": "portfolio",
     "links": {
-      "view": "https://linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/notystack-android"
+      "view": "https://jnanaranjanmajhi.github.io/Portfolio/",
+      "code": "https://github.com/JnanaranjanMajhi/Portfolio"
     }
   }
 
