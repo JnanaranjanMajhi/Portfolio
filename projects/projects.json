@@ -1,0 +1,68 @@
+[
+  
+  {
+    "name": "To-Do List",
+    "desc": "An interactive To-Do List Application built with Python and Tkinter to help you efficiently manage your tasks.",
+    "image": "todolist",
+    "category": "python",
+    "links": {
+      "view": "https://github.com/JnanaranjanMajhi/To_Do_List",
+      "code": "https://github.com/JnanaranjanMajhi/To_Do_List"
+    }
+  },
+
+  {
+    "name": "Currency Converter",
+    "desc": "A comprehensive Java-based Currency Converter application featuring a  real-time exchange rates and various helpful insights",
+    "image": "currecy",
+    "category": "java",
+    "links": {
+      "view": "https://github.com/JnanaranjanMajhi/Currency-converter",
+      "code": "https://github.com/JnanaranjanMajhi/Currency-converter"
+    }
+  },
+
+  {
+    "name": "Anomaly detection Model",
+    "desc": "An ML model focuses on detecting anomalies in network traffic data using unsupervised learning techniques",
+    "image": "Anomaly_1",
+    "category": "ml",
+    "links": {
+      "view": "https://github.com/JnanaranjanMajhi/Anomaly-Detection-In-Cyber-Security-",
+      "code": "https://github.com/JnanaranjanMajhi/Anomaly-Detection-In-Cyber-Security-"
+    }
+  },
+
+  {
+    "name": "ResumeGen",
+    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "image": "resumegen",
+    "category": "web",
+    "links": {
+      "view": "https://resumegenx.netlify.app/",
+      "code": "https://github.com/jigar-sable/resumegen"
+    }
+  },
+
+  {
+    "name": "Personal Portfolio",
+    "desc": "A Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.",
+    "image": "portfolio",
+    "category": "web",
+    "links": {
+      "view": "https://linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/notystack-android"
+    }
+  },
+  
+  {
+    "name": "Personal Portfolio",
+    "desc": "A Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.",
+    "image": "portfolio",
+    "links": {
+      "view": "https://linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/notystack-android"
+    }
+  }
+
+]
