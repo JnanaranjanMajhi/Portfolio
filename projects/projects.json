@@ -32,6 +32,7 @@
       "code": "https://github.com/JnanaranjanMajhi/Anomaly-Detection-In-Cyber-Security-"
     }
   },
+
   {
     "name": "ResumeGen",
     "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
@@ -42,14 +43,15 @@
       "code": "https://github.com/jigar-sable/resumegen"
     }
   },
+  
   {
     "name": "Personal Portfolio",
     "desc": "A Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.",
     "image": "portfolio",
-    "category": "web",
     "links": {
       "view": "https://linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
       "code": "https://github.com/jigar-sable/notystack-android"
     }
   }
+
 ]
